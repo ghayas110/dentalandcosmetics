@@ -36,7 +36,7 @@ export default function About() {
               <div className="w-12 h-12 md:w-16 md:h-16 bg-white border-2 border-gray-200 rounded-full flex items-center justify-center text-xl md:text-2xl z-10 shrink-0 shadow-sm absolute -left-8 md:-left-16 md:relative">📈</div>
               <div className="bg-white border border-gray-200 p-6 md:p-8 rounded-xl flex-grow">
                 <h3 className="text-xl font-bold mb-2">Expansion of Services (2014)</h3>
-                <p className="text-muted text-[0.95rem] leading-relaxed">Grew to a multi-specialty clinic by welcoming Dr. Faisal Ahmed and Dr. Fatima Khan, introducing specialized orthodontics and periodontics under one roof.</p>
+                <p className="text-muted text-[0.95rem] leading-relaxed">Grew to a multi-specialty clinic by welcoming Dr. James Bennett and Dr. Emily Carter, introducing specialized orthodontics and periodontics under one roof.</p>
               </div>
             </div>
 
@@ -124,32 +124,32 @@ export default function About() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div className="bg-white rounded-2xl overflow-hidden border border-gray-200 text-left hover-card group">
               <div className="overflow-hidden">
-                <img src="/images/dr_zaidi.png" alt="Dr. Ali Zaidi" className="w-full aspect-[4/5] object-cover transition-transform duration-500 group-hover:scale-105" />
+                <img src="/images/dr_zaidi.png" alt="Dr. Alexander Foster" className="w-full aspect-[4/5] object-cover transition-transform duration-500 group-hover:scale-105" />
               </div>
               <div className="p-6">
-                <h3 className="font-bold text-xl">Dr. Ali Zaidi</h3>
+                <h3 className="font-bold text-xl">Dr. Alexander Foster</h3>
                 <p className="font-semibold text-[0.85rem] text-primary mt-1">Clinical Director & General Dentist</p>
-                <p className="mt-4 text-muted text-[0.9rem] leading-relaxed">With over 18 years of experience, Dr. Zaidi specializes in holistic dental care and complex restoration.</p>
+                <p className="mt-4 text-muted text-[0.9rem] leading-relaxed">With over 18 years of experience, Dr. Foster specializes in holistic dental care and complex restoration.</p>
               </div>
             </div>
             
             <div className="bg-white rounded-2xl overflow-hidden border border-gray-200 text-left hover-card group">
               <div className="overflow-hidden">
-                <img src="/images/dr_ahmed.png" alt="Dr. Faisal Ahmed" className="w-full aspect-[4/5] object-cover transition-transform duration-500 group-hover:scale-105" />
+                <img src="/images/dr_ahmed.png" alt="Dr. James Bennett" className="w-full aspect-[4/5] object-cover transition-transform duration-500 group-hover:scale-105" />
               </div>
               <div className="p-6">
-                <h3 className="font-bold text-xl">Dr. Faisal Ahmed</h3>
+                <h3 className="font-bold text-xl">Dr. James Bennett</h3>
                 <p className="font-semibold text-[0.85rem] text-primary mt-1">Orthodontist</p>
-                <p className="mt-4 text-muted text-[0.9rem] leading-relaxed">Specializing in Invisalign and advanced orthodontics, Dr. Ahmed has transformed over 2,000 smiles.</p>
+                <p className="mt-4 text-muted text-[0.9rem] leading-relaxed">Specializing in Invisalign and advanced orthodontics, Dr. Bennett has transformed over 2,000 smiles.</p>
               </div>
             </div>
 
             <div className="bg-white rounded-2xl overflow-hidden border border-gray-200 text-left hover-card group">
               <div className="overflow-hidden">
-                <img src="/images/dr_fatima.png" alt="Dr. Fatima Khan" className="w-full aspect-[4/5] object-cover transition-transform duration-500 group-hover:scale-105" />
+                <img src="/images/dr_fatima.png" alt="Dr. Emily Carter" className="w-full aspect-[4/5] object-cover transition-transform duration-500 group-hover:scale-105" />
               </div>
               <div className="p-6">
-                <h3 className="font-bold text-xl">Dr. Fatima Khan</h3>
+                <h3 className="font-bold text-xl">Dr. Emily Carter</h3>
                 <p className="font-semibold text-[0.85rem] text-primary mt-1">Periodontist & Implantologist</p>
                 <p className="mt-4 text-muted text-[0.9rem] leading-relaxed">An expert in surgical implantology and gum health with a focus on minimally invasive techniques.</p>
               </div>

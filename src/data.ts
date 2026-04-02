@@ -80,7 +80,7 @@ export const servicesData = [
         'Experienced Oral Surgeons'
       ],
       expertTitle: 'Expertise You Can Trust',
-      expertName: 'Dr. Fatima Khan',
+      expertName: 'Dr. Emily Carter',
       expertRole: 'Implant Specialist',
       expertImage: '/images/dr_fatima.png',
       expertQuote: '"Our mission is to provide life-changing restorative dentistry with the utmost precision and care."'
@@ -167,7 +167,7 @@ export const servicesData = [
         'Preventative Focus'
       ],
       expertTitle: 'Your Family Dentist',
-      expertName: 'Dr. Ali Zaidi',
+      expertName: 'Dr. Alexander Foster',
       expertRole: 'General Dentist',
       expertImage: '/images/dr_zaidi.png',
       expertQuote: '"A healthy smile is the foundation of a healthy life."'
@@ -250,7 +250,7 @@ export const servicesData = [
         'Medical-Grade Products'
       ],
       expertTitle: 'Skin Expert',
-      expertName: 'Dr. Fatima Khan',
+      expertName: 'Dr. Emily Carter',
       expertRole: 'Skin Specialist',
       expertImage: '/images/dr_fatima.png',
       expertQuote: '"Healthy skin is a reflection of overall wellness. We are here to help you shine."'
@@ -333,7 +333,7 @@ export const servicesData = [
         'Comprehensive Medical Exams'
       ],
       expertTitle: 'Clinical Lead',
-      expertName: 'Dr. Faisal Ahmed',
+      expertName: 'Dr. James Bennett',
       expertRole: 'General Physician',
       expertImage: '/images/dr_ahmed.png',
       expertQuote: '"Medicine is the art of restoring health through compassionate care and expert knowledge."'
@@ -416,7 +416,7 @@ export const servicesData = [
         'Sports Injury Treatment'
       ],
       expertTitle: 'Therapy Specialist',
-      expertName: 'Dr. Ali Zaidi',
+      expertName: 'Dr. Alexander Foster',
       expertRole: 'Physiotherapist',
       expertImage: '/images/dr_zaidi.png',
       expertQuote: '"Recovery is a journey of movement. We are here to guide every step of the way."'

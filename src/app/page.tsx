@@ -41,7 +41,7 @@ export default function Home() {
         </div>
       </section>
 
-      <section className="py-12 border-y border-gray-200 bg-light">
+      <section className="py-12 border-y border-gray-200 bg-white">
         <div className="w-full max-w-[1200px] mx-auto px-6">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
             <div className="p-4 hover-card">
